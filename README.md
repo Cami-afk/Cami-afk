@@ -1,40 +1,31 @@
 <p align="center">
-  <img src="assets/banner2.jpg" width="100%" />
+  <img src="assets/banner.jpeg" width="100%" />
 </p>
 
 <br>
 
-<p align="left">
+I work with data the way architects work with structure - clarity first, decoration second.
 
-📊 I help businesses see what their data is actually saying  
-🧠 Building structured SQL models and KPI frameworks  
-📈 Turning dashboards into decision tools  
-🎯 Preparing for PL-300 certification  
-🤝 Open to collaborating on analytics & reporting projects  
-🌍 Vienna-based, internationally minded  
+My focus is on building analytical foundations:
+clean SQL transformations, well-defined KPIs and reporting systems that make business decisions easier - not louder.
 
-</p>
+I care less about dashboards that look impressive,  
+and more about reporting that answers the right questions.
+<br>
 
----
+Available for BI & Analytics roles focused on structured reporting and decision support.
 
-## My Stack
+<br>
 
-SQL · Excel · Power BI · Python · Looker Studio  
-BigQuery · dbt · Git · GitHub · Jupyter  
+### How I think about analytics
 
----
+Structure over noise.  
+Business context over raw metrics.  
+Clear decisions over complex visuals.
+<br>
+### What I work with
 
-## Focus
+SQL · BigQuery · Python (Pandas) · Power BI · Looker Studio  
+dbt · Git · Excel · Jupyter Notebook  
 
-- Business Intelligence & Reporting  
-- KPI Design & Performance Analytics  
-- Data Modeling & SQL Optimization  
-- Dashboard Development  
-- Reporting Automation  
 
----
-
-## Connect
-
-Vienna, Austria  
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
