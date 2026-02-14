@@ -4,13 +4,16 @@
 
 <br>
 
-## About
+<p align="left">
 
-I help businesses understand what their data is actually saying.  
-My focus lies in structured SQL analysis, KPI framework design and building dashboards that support real decisions.
+📊 I help businesses see what their data is actually saying  
+🧠 Building structured SQL models and KPI frameworks  
+📈 Turning dashboards into decision tools  
+🎯 Preparing for PL-300 certification  
+🤝 Open to collaborating on analytics & reporting projects  
+🌍 Vienna-based, internationally minded  
 
-Currently preparing for the Microsoft PL-300 certification.  
-Based in Vienna, working internationally.
+</p>
 
 ---
 
